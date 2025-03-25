@@ -1,6 +1,6 @@
 GET http://localhost:3000/
 
-### songs
+### get all songs
 GET http://localhost:3000/songs
 
 ### song
